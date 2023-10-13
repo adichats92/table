@@ -1,0 +1,22 @@
+ h1 {
+    text-align: center;
+ }
+.tablecontainer {
+    width: 750px;
+    height: 300px;
+    padding: 20px;
+    background-color: #f5ecae;
+    margin: 10px 20px 30px;
+  }
+  
+table {
+    width: 700px;
+    margin: 30px;
+    background-color: rgba(255, 255, 255, 0.793);
+    text-align: center;
+    border-collapse: collapse;
+  }
+  
+  td, th {
+    border: 1px solid black;
+  }
